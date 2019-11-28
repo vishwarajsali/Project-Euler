@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Multiplesof3and5",
+            "request": "launch",
+            "mainClass": "_0001Multiplesof3and5.Multiplesof3and5",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "Java.App",
+            "projectName": "Java"
+        }
+    ]
+}
