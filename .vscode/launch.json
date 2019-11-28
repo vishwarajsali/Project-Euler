@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - EvenFibonaccinumbers",
+            "request": "launch",
+            "mainClass": "_0002EvenFibonaccinumbers.EvenFibonaccinumbers",
+            "projectName": "Java"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Multiplesof3and5",
             "request": "launch",
             "mainClass": "_0001Multiplesof3and5.Multiplesof3and5",
